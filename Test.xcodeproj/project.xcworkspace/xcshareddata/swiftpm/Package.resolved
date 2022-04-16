@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftreduxstore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/paigeshin/SwiftReduxStore",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a4e48156d489e14438c353dd543f3ba2295aed69"
+      }
+    }
+  ],
+  "version" : 2
+}
